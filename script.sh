@@ -10,10 +10,10 @@ sudo apt install nodejs
 sudo apt install npm
 
 # Clone the repository
-git clone https://github.com/singhsanket143/AWS-Demo-Project.git
+git clone https://github.com/singhsanket143/AWS-Demo-Project.git /home/ubuntu/project
 
 # cd in the folder
-cd AWS-Demo-Project
+cd /home/ubuntu/project
 
 # install packages
 npm install
